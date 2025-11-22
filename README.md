@@ -82,6 +82,4 @@ int main() {
 <img width="578" height="266" alt="image" src="https://github.com/user-attachments/assets/19c907d3-25fd-403e-9d84-af8f7da4b03a" />
 
 ## Result:
-   Thus the program is executed and verified successfully.
-## Result:
 The program is executed successfully.
